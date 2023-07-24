@@ -1,0 +1,14 @@
+node_modules/
+npm-debug.log
+
+/dist/
+/build/
+*.log
+*.zip
+
+.vscode/
+.prettierrc
+.eslint
+.tsconfig
+
+package-lock.json
