@@ -8,7 +8,7 @@ npm-debug.log
 
 .vscode/
 .prettierrc
-.eslint
-.tsconfig
+.eslintrc
+tsconfig.json
 
 package-lock.json
